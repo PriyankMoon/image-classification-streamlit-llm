@@ -3,7 +3,7 @@ tensorflow==2.12.0
 pillow
 transformers==4.40.1
 torch
-pytesseract
+easyocr opencv-python-headless
 wikipedia
 deep-translator
 langdetect
