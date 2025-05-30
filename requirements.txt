@@ -3,7 +3,7 @@ tensorflow==2.12.0
 pillow
 transformers==4.52.3
 torch
-pytesseractDD
+pytesseract
 wikipedia
 deep-translator
 langdetect
